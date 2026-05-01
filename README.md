@@ -70,3 +70,11 @@ Audio/
 
 ```bash
 git clone https://github.com/JSenpai12/smart-file-organizer.git
+---
+
+## DEMO
+
+<img width="428" height="316" alt="Screenshot from 2026-05-01 17-00-06" src="https://github.com/user-attachments/assets/d1265227-f7ca-418b-84ac-3a3f20ade08f" />
+<img width="428" height="316" alt="Screenshot from 2026-05-01 17-00-12" src="https://github.com/user-attachments/assets/748849ea-735a-4ee4-a1da-9404ed3dc38b" />
+
+
