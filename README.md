@@ -71,6 +71,7 @@ Audio/
 ```bash
 git clone https://github.com/JSenpai12/smart-file-organizer.git
 ---
+```
 
 ## DEMO
 
